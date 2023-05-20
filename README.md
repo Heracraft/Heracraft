@@ -1,4 +1,4 @@
-👋 Hi, I'm Nehemia (@Heracraft) 🇹🇿
+👋 Hi, I'm Nehemia 🇹🇿
 
 💻 Full stack web and mobile developer
 🌟 JavaScript and Svelte enthusiast
@@ -13,5 +13,3 @@
 - 👉 LinkedIn
 - 👉 Twitter
 - 👉 GitHub
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heracraft&count_private=true)
