@@ -14,4 +14,4 @@
 - 👉 Twitter
 - 👉 GitHub
 
-[![Nehemia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heracraft(https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heracraft&count_private=true)
